@@ -10,4 +10,4 @@
 
 - Rolou entender o que é o SHA1 (aquela paradinha de gerar uma string de 40 caracteres e que é super importante quando a gente tá falando de controle de versionamento)
 
-- Depois rolou trabalhar com o GIT Bash (git status, git init, git add) pra efetivamente subir os arquivos
+- Depois rolou trabalhar com o GIT Bash (git status, git init, git add, CTRL L, ls, cd, ls -a (pra ver pasta oculta), git commit -m, git push, git remote -v, git clone)
